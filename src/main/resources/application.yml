@@ -1,0 +1,10 @@
+server:
+  ssl:
+    enabled: false
+spring:
+  data:
+    redis:
+      host: azredisrahul.redis.cache.windows.net
+      password: zvf0g5ODuUHUF1jeHrkwvpkBFVE6Ar1i3AzCaIqAKPs=
+      port: 6379
+
